@@ -1,7 +1,8 @@
 # Hi, there. I am Atila!
 <br>
- Welcome to my portfolio
-<br>
+ Welcome to my portfolio. I am an aspiring Software Engineer based in the Tokyo. 
+
+<br><br>
  Language usage Stats
 
 <p>
