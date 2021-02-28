@@ -1,4 +1,14 @@
+# Hi, there. I am Atila!
+<br>
+ Welcome to my portfolio
+<br>
+ Language usage Stats
 
+<p>
+  <a href="https://github.com/atila-tokyo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atila-tokyo&hide=html&layout=compact&langs_count=10" /> 
+  </a>
+  <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="left">Technologies & Tools</h2>
@@ -6,9 +16,8 @@
 
 ### Frontend
 
-<code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</code> &nbsp;&nbsp;
 <code>![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</code> &nbsp;&nbsp;
-<code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code> &nbsp;&nbsp;
+<code>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Frameworks
 
@@ -21,7 +30,7 @@
 ### Languages
 
 <code>![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code> &nbsp;&nbsp;
-<code>![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</code> &nbsp;&nbsp;
 
 
@@ -32,6 +41,6 @@
 
 ### Deploy
 
-<code>![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</code> &nbsp;&nbsp;
+<code>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
 
