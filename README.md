@@ -27,11 +27,12 @@
 <code>![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)</code> &nbsp;&nbsp;
 <code>![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Languages
 
 <code>![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code> &nbsp;&nbsp;
-<code>![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</code> &nbsp;&nbsp;
 
 
