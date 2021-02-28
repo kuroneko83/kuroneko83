@@ -10,8 +10,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atila-tokyo&hide=html&layout=compact&langs_count=10" /> 
   </a>
   <br>
+</p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="left">Technologies & Tools</h2>
 
 
@@ -45,3 +45,9 @@
 <code>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
 
+<br>
+<p>
+ <a href="https://github.com/atila-tokyo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atila-tokyo&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Atila's GitHub Stats" />
+  </a>
+ </p>
