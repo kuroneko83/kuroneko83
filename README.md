@@ -45,6 +45,9 @@
 <code>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
 
+### Specs
+<code>![Machine](https://img.shields.io/badge/Apple-MacBook_Pro_2017-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
+
 <br>
 <p>
  <a href="https://github.com/atila-tokyo">
