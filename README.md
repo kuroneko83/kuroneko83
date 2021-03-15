@@ -48,7 +48,7 @@
 <code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Specs
-<code>![Machine](https://img.shields.io/badge/Apple-iMac_2021-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Machine](https://img.shields.io/badge/Macbook_pro_2021-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
 
 <br>
 <p>
