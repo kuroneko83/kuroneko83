@@ -2,7 +2,8 @@
 <br>
  Welcome to my portfolio. I am an aspiring Software Engineer based in the Tokyo.
  
- I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails. Previous to that I had been self-teaching HTML, Javascript, Python and Java for over an year.
+ I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails. 
+ Previous to that I had been self-teaching HTML, Javascript, Python and Java for over an year.
  
  I am currently a remote Software Developer for Bonobo Tecnologias, a very nice company from São Paulo that works for several clients, including big banks aiming   the digitalization of their business accounts. At the moment I am delving into cloud computing with AWS.
  
