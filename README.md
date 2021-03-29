@@ -57,3 +57,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=atila-tokyo&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Atila's GitHub Stats" />
   </a>
  </p>
+
+Find me on Linkedin
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/atila-tokyo/)
