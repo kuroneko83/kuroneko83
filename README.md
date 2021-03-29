@@ -1,6 +1,12 @@
 # Hi, there. I am Atila!
 <br>
- Welcome to my portfolio. I am an aspiring Software Engineer based in the Tokyo. 
+ Welcome to my portfolio. I am an aspiring Software Engineer based in the Tokyo.
+ 
+ I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails. Previous to that I had been self-teaching HTML, Javascript, Python and Java for over an year.
+ 
+ I am currently a remote Software Developer for Bonobo Tecnologias, a very nice company from São Paulo that works for several clients, including big banks aiming   the digitalization of their business accounts. At the moment I am delving into cloud computing with AWS.
+ 
+ On my spare time I like to cook multi-ethnical dishes, cycle long distances and spend time with my family. Before turning into Software Engineering I have had varied professional experiences, such as Project Manager for construction development projects, Project Supervisor for Government Agencies, Sous-chef at restaurants and also did a miryad of volunteer works as an Animal Socializer at Animal Shelters and Photojournalist for a parliament member in the province of British Columbia in Canada.
 
 <br><br>
  Language usage Stats
