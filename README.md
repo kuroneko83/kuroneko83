@@ -60,7 +60,7 @@
 <br>
 
 ## Find me on Linkedin
-<br><br>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/atila-tokyo)
 
