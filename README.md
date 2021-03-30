@@ -7,14 +7,14 @@
  
  I am currently a remote Web Developer for Bonobo Tecnologias, a very nice company from São Paulo that works for several clients, including big banks aiming the digitalization of their business customers accounts. At the moment I am delving into cloud computing with AWS.
  
-On my spare time I like to cook multi-ethnical dishes 🍜  cycle long distances 🚴‍ snowboard 🏂  and spend time with my family 👨‍👩‍👦 
+On my spare time I like to cook multi-ethnical dishes 🍜   cycle long distances 🚴‍  snowboard 🏂   and spend time with my family 👨‍👩‍👦 
 
 Before turning into Software Engineering I had varied professional experiences, such as:
 - Project Manager for construction development 🏗  and forestry projects 🌳 
 - Project Supervisor for Government Agencies 🏢
 - Sous-chef at restaurants 👨🏼‍🍳
 
-And also did a miryad of volunteer works such as Animal Socializer at Animal Shelters 🦮  and Photojournalist 📷📝  for a parliament member in the province of British Columbia in Canada 🇨🇦
+And also did a miryad of volunteer works such as Animal Socializer at Animal Shelters 🦮   and Photojournalist 📷📝   for a parliament member in the province of British Columbia in Canada 🇨🇦
 
 <br><br>
  Language usage Stats
