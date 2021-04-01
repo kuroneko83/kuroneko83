@@ -5,7 +5,7 @@
  I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
  Previous to that I had been self-teaching HTML, CSS, Javascript and Java for over an year.
  
- I am currently a remote Web Developer for Bonobo Tecnologias, a very nice company from São Paulo that works for several clients, including big banks aiming the digitalization of their business customers accounts. At the moment I am delving into cloud computing with AWS.
+ I am currently a remote Web Developer for Bonobo Tecnologia, a very nice company from São Paulo that works for several clients, including big banks aiming the digitalization of their business customers accounts. At the moment I am delving into cloud computing with AWS.
  
 On my spare time I like to cook multi-ethnical dishes 🍜   cycle long distances 🚴‍  snowboard 🏂   and spend time with my family 👨‍👩‍👦 
 
