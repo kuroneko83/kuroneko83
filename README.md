@@ -63,7 +63,7 @@ And also did a miryad of volunteer works such as Animal Socializer at Animal She
 
 ### IDE
 
-<code>![https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)</code> &nbsp;&nbsp;
+<code>![VSCode](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)</code> &nbsp;&nbsp;
 
 ### Specs
 <code>![Machine](https://img.shields.io/badge/Macbook_pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
