@@ -62,7 +62,8 @@ And also did a miryad of volunteer works such as Animal Socializer at Animal She
 <code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Cloud
-<code>![AmazonAWS](https://img.shields.io/badge/AmazonAWS-F7DF1E?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
+<code>![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)]</code> &nbsp;&nbsp;
+
 
 ### Specs
 <code>![Machine](https://img.shields.io/badge/Macbook_pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
