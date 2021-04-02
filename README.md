@@ -65,9 +65,6 @@ And also did a miryad of volunteer works such as Animal Socializer at Animal She
 <code>![Machine](https://img.shields.io/badge/Macbook_pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Machine](https://img.shields.io/badge/iMac_21.5"-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
 
-### Cloud
-<code>![AWS](https://img.shields.io/badge/iMac_21.5"-999999?style=for-the-badge&logo=aws&logoColor=white)</code> &nbsp;&nbsp;
-
 
 <br>
 <p>
