@@ -62,7 +62,7 @@ And also did a miryad of volunteer works such as Animal Socializer at Animal She
 <code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Cloud
-<code>![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)]</code> &nbsp;&nbsp;
+<code>![AWS](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_aws.png?raw=true)</code> &nbsp;&nbsp;
 
 
 ### Specs
