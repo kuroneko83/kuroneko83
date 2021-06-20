@@ -44,6 +44,7 @@ Before turning into Software Engineering I had varied professional experiences, 
 <code>![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code> &nbsp;&nbsp;
 <code>![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</code> &nbsp;&nbsp;
 
 
 ### Database
