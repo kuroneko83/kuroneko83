@@ -36,7 +36,7 @@ Before turning into Software Engineering I had varied professional experiences, 
 <code>![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)</code> &nbsp;&nbsp;
 <code>![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Expressjs](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB")</code> &nbsp;&nbsp;
-<code>![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</code> &nbsp;&nbsp;
+<code>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</code> &nbsp;&nbsp;
 <code>![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Languages
@@ -57,6 +57,7 @@ Before turning into Software Engineering I had varied professional experiences, 
 <code>![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)</code> &nbsp;&nbsp;
 <code>![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Specs
 <code>![Machine](https://img.shields.io/badge/Macbook_pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
