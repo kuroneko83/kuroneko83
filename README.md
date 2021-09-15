@@ -4,7 +4,7 @@
  
  I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
  
-Currently a remote freelance Web Developer for Bonobo Tecnologia, a company from São Paulo that works for several clients, including big banks aiming the digitalization of their business customers accounts. Delving into cloud computing with AWS at the moment.
+Currently a remote freelance Web Developer.
 
 Before turning into Software Engineering I had varied professional experiences, such as:
 - Project Manager for construction development 🏗  and forestry projects 🌳 
