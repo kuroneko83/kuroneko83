@@ -1,15 +1,14 @@
 # Hi, there. I am Atila!
 <br>
- Welcome to my portfolio. I am a Brazilian🇧🇷  FullStack Software Engineer based in Tokyo🗼
+Welcome to my portfolio. I am a Brazilian🇧🇷  Software Engineer based in Tokyo🗼
  
- I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
+I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
  
 Currently a remote freelance Web Developer.
 
 Before turning into Software Engineering I had varied professional experiences, such as:
 - Project Manager for construction development 🏗  and forestry projects 🌳 
 - Project Supervisor for Government Agencies 🏢
-- Sous-chef at restaurants 👨🏼‍🍳
 
 <br><br>
  Language usage Stats
