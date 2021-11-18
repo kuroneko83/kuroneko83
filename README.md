@@ -15,7 +15,7 @@ Before turning into Software Engineering I had varied professional experiences, 
 
 <p>
   <a href="https://github.com/atila-tokyo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atila-tokyo&hide=html&layout=compact&langs_count=10" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atila-tokyo&hide=html&layout=compact&langs_count=14" /> 
   </a>
   <br>
 </p>
