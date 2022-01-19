@@ -77,4 +77,4 @@ Before turning into Software Engineering I had varied professional experiences, 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/atila-tokyo)
 
 ## Other Platforms
-<code>![TryHackMe](https://tryhackme.com/badge/880140)</code> &nbsp;&nbsp;
+<code>![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/kuroneko.png)</code> &nbsp;&nbsp;
