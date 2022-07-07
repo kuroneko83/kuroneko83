@@ -4,7 +4,7 @@ Welcome to my portfolio. I am a Brazilian🇧🇷  Software Engineer based in To
  
 I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
  
-Currently a remote freelance Web Developer.
+Currently working as a remote software engineer @ GOYOH inc.
 
 Before turning into Software Engineering I had varied professional experiences, such as:
 - Project Manager for construction development 🏗  and forestry projects 🌳 
