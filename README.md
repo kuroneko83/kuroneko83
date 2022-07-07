@@ -9,7 +9,8 @@ Currently working as a remote software engineer @ GOYOH inc.
 Before turning into Software Engineering I had varied professional experiences, such as:
 - Project Manager for construction development 🏗  and forestry projects 🌳 
 - Project Supervisor for Government Agencies 🏢
-
+- Sous-chef/Kitchen leader  🍳🧑🏻‍🍳
+- Volunteer photojournalist for the Legislature Assembly of British Columbia 📷 🇨🇦
 <br><br>
  Language usage Stats
 
