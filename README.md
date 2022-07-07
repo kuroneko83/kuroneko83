@@ -1,6 +1,6 @@
 # Hi, there. I am Atila!
 <br>
-Welcome to my portfolio. I am a Brazilian🇧🇷  Software Engineer based in Tokyo🗼
+Welcome to my portfolio. I am a Brazilian🇧🇷  Software Engineer based in Tokyo 🗼🇯🇵
  
 I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
  
