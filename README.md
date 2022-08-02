@@ -81,4 +81,4 @@ Before turning into Software Engineering I had varied professional experiences, 
 <code>![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/kuroneko.png)</code> &nbsp;&nbsp;
 
 
-<code>![Codewars](https://www.codewars.com/users/atila-tokyo/badges/small)</code> &nbsp;&nbsp;
+<code>![CodeWars](https://www.codewars.com/users/atila-tokyo/badges/small)</code> &nbsp;&nbsp;
