@@ -12,14 +12,7 @@ Before turning into Software Engineering I had varied professional experiences, 
 - Sous-chef/Kitchen leader  🍳🧑🏻‍🍳
 - Volunteer photojournalist for the Legislature Assembly of British Columbia 📷 🇨🇦
 <br><br>
- Language usage Stats
 
-<p>
-  <a href="https://github.com/atila-tokyo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atila-tokyo&hide=html&layout=compact&langs_count=14" /> 
-  </a>
-  <br>
-</p>
 
 <h2 align="left">Technologies & Tools</h2>
 
@@ -63,14 +56,6 @@ Before turning into Software Engineering I had varied professional experiences, 
 <code>![Machine](https://img.shields.io/badge/Macbook_pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Machine](https://img.shields.io/badge/iMac_21.5"-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
 
-
-<br>
-<p>
- <a href="https://github.com/atila-tokyo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=atila-tokyo&show_icons=true&line_height=27&count_private=true&&theme=vision-friendly-dark" alt="Atila's GitHub Stats" />
-  </a>
- </p>
-<br>
 
 ## Find me on Linkedin
 
