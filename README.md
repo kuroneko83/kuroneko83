@@ -1,10 +1,10 @@
 # Hi, there. I am Atila!
 <br>
-Welcome to my portfolio. I am a Brazilian🇧🇷  Software Engineer based in Tokyo 🗼🇯🇵
+Welcome to my portfolio. I am a Brazilian🇧🇷  Software Engineer 
  
 I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
  
-Currently working as a remote software engineer @ GOYOH inc.
+Currently working as a remote freelance software engineer and looking around for open source projects I could help somehow
 
 Before turning into Software Engineering I had varied professional experiences, such as:
 - Project Manager for construction development 🏗  and forestry projects 🌳 
