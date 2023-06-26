@@ -53,7 +53,7 @@ Before turning into Software Engineering I had varied professional experiences, 
 <code>![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Specs
-<code>![Machine](https://img.shields.io/badge/Macbook_pro_2016-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Machine](https://img.shields.io/badge/Macbook_pro_M2-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Machine](https://img.shields.io/badge/iMac_21.5"-999999?style=for-the-badge&logo=apple&logoColor=white)</code> &nbsp;&nbsp;
 
 
