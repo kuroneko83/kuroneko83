@@ -2,9 +2,9 @@
 <br>
 Welcome to my portfolio. I am a Brazilian🇧🇷  Software Engineer 
  
-I attended Le Wagon batch #538 where I developed my skills on Ruby on Rails.
+I'm a Le Wagon alumni from batch #538 
  
-Currently working as a remote freelance software engineer and looking around for open source projects I could help somehow
+Currently working as a remote freelance software engineer and contributing to an open-source project
 
 Before turning into Software Engineering I had varied professional experiences, such as:
 - Project Manager for construction development 🏗  and forestry projects 🌳 
