@@ -22,12 +22,15 @@ Currently working as a remote freelance software engineer and contributing to an
 <code>![Expressjs](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB")</code> &nbsp;&nbsp;
 <code>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</code> &nbsp;&nbsp;
 <code>![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</code> &nbsp;&nbsp;
+<code>![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</code> &nbsp;&nbsp;
+<code>![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)</code> &nbsp;&nbsp;
 
 ### Languages
 
 <code>![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)</code> &nbsp;&nbsp;
 <code>![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</code> &nbsp;&nbsp;
 <code>![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</code> &nbsp;&nbsp;
+<code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code> &nbsp;&nbsp;
 
 
 ### Database
