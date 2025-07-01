@@ -4,7 +4,7 @@ Welcome to my Github portfolio
  
 Currently building softwares for my personal business and contributing to an open-source project.
 
-I am open for doing remote freelance software engineering gigs, reach out to me at atilacloudengineer@gmail.com if you have an idea you'd like to see in the real life
+I am open for freelance software engineering gigs, reach out to me at atilacloudengineer@gmail.com if you have an idea you'd like to see it turned into a service or product.
 
 <br><br>
 
