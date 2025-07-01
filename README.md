@@ -2,7 +2,7 @@
 <br>
 Welcome to my Github portfolio 
  
-Currently working as a remote freelance software engineer and contributing to an open-source project
+Currently building softwares for my personal business, doing remote freelance software engineer and contributing to an open-source project
 
 <br><br>
 
