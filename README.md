@@ -1,7 +1,7 @@
 # Hi, there. I am Atila!
 <br>
 Welcome to my Github portfolio 
- 
+<br> 
 I am a developer and entrepreneur designing technology-embedded solutions for my personal business and contributing to an open-source project.
 
 Currently developing an edtech platform focusing on education for bilingual kids with ADHD, using science-based research.
