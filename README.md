@@ -8,7 +8,7 @@ I am a developer and entrepreneur designing technology-embedded solutions for my
 
 Currently developing an edtech platform focusing on education for bilingual kids with ADHD, using science-based research.
 
-I am open to freelance software engineering gigs. Reach out to me at atilacloudengineer@gmail.com if you have an idea you'd like to see turned into a service or product.
+If you have an idea you'd like to see turned into a service or product reach out at    [![Ikebukuro Technologies](https://ikebukuro.mountainshadow.com.br/badge-large.svg)](https://ikebukuro.mountainshadow.com.br)
 
 
 
