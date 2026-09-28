@@ -6,7 +6,6 @@ Welcome to my Github portfolio
 
 I am a developer and entrepreneur designing technology-embedded solutions for my personal business and contributing to an open-source project.
 
-Currently developing an edtech platform focusing on education for bilingual kids with ADHD, using science-based research.
 
 If you have an idea you'd like to see turned into a service or product reach out at    [![Ikebukuro Technologies](https://ikebukuro.mountainshadow.com.br/badge-large.svg)](https://ikebukuro.mountainshadow.com.br)
 
